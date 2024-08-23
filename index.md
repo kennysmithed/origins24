@@ -11,7 +11,7 @@ Note that this course has evolved over the years - the course in something like 
 
 The course organiser and lecturer is [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) (that's me). The best way to get in touch with me is in one of the lectures, see below, or by email to [kenny.smith@ed.ac.uk](mailto:kenny.smith@ed.ac.uk).
 
-Tutorials will be run by three tutors:names **TBC**. 
+Tutorials will be run by three tutors: names **TBC**. 
 
 ## Class times
 
@@ -59,7 +59,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 
 - Lecture pre-reading
 - Lecture slides
-- [Tutorial reading and instructions](origins_tutorial_wk3.md)
+- Tutorial reading and instructions
 
 ### Week 3 (30th September): Intention and structure in animal communication
 - Lecture pre-reading
