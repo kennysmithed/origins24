@@ -1,4 +1,4 @@
-# origins23
+# origins24
 
 Origins and Evolution of Language, semester 1 of the 2024-2025 academic year.
 
