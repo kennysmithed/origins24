@@ -9,15 +9,6 @@ description: Introduction to evolutionary theory
 
 There is quite a lot of reading this week, in order to get you up to speed on the basics of evolutionary theory, and how these ideas might apply to the evolution of language: you will read a brief introduction to evolution by natural selection provided below, plus an older but accessible paper by Pinker. I will provide a very quick summary of some key points in the lecture, and there will be lots of opportunities for questions. 
 
-## About the reading
-
-In addition to reading the text below, which is a brief introduction to evolution by natural selection, I want you to read [Pinker (2003)](https://stevenpinker.com/files/pinker/files/language_evolution.pdf) - I would suggest reading the intro to evolutionary theiry first, then the Pinker paper.  [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker) is quite widely known for his pop science writing on language and other topics, but also has thoughts on language evolution. This 2003 paper is an old but fairly easy-reading and non-technical summary of (an older instantiation of) Pinker's take on language, what it's for, and how it evolved.
-
-Pinker, S. (2003). Language as an adaptation to the cognitive niche. In M. Christiansen & S. Kirby (Eds.), *Language Evolution* (pp. 16-37). Oxford: Oxford University Press. [Link](https://stevenpinker.com/files/pinker/files/language_evolution.pdf)
-
-NB. the link goes to a copy of the chapter that Pinker has put online - if you want to chase up a reference you can also access the whole book, including the references, [via Discover Ed](https://discovered.ed.ac.uk/permalink/44UOE_INST/1viuo5v/cdi_proquest_miscellaneous_37697167).
-
-NB. Pinker uses the term "retarded" a few times - while this was at one point a scientific term it is now widely considered to be offensive and its use has been discontinued in the last 10-15 years (see e.g. [here](https://en.wikipedia.org/wiki/Retard_(pejorative)), which also includes mention of other similar terms which have fallen out of scientific use due to their perjorative connotations), being replaced with less loaded terms like "intellectual disability". You should therefore not use this term in your discussion or essays.
 
 ## A very brief intro to adaptation and natural selection
 
@@ -96,6 +87,17 @@ What has this got to do with language? Firstly, language is culturally transmitt
 What's this got to do with evolution, and what does "cultural evolution" mean anyway? Firstly, there are clearly really interesting evolutionary questions about how the capacity for culture evolves. Two paragraphs ago I said "because the ability to learn from others is such a handy skill, many species do social learning" -- in other words, I was claiming that the ability to do social learning is an adaptation (an ability that increases fitness), and therefore the ability to learn from others must be a product of natural selection.
 
 But secondly, knowledge, behaviours and skills which are culturally transmitted *evolve*: they change over time. This is really obvious if you look at how technologies change: they are constantly improving, becoming more powerful, more functional, cheaper to manufacture, and generally better ([I like bikes](https://www.youtube.com/watch?v=5puCTcg-Ars)). But it's also the case for other aspects of culture, including language. Languages change all the time -- we wouldn't want to say that the change from e.g. Old English to present-day English represents an improvement in the same way that present-day technologies are better than those in circulation 1000 years ago, but the fact that the language has changed as it's been passed from generation to generation is undeniable. We'll spend a good chunk of this course talking about cultural evolution, what it does to languages, and how the human capacity for culture might have evolved.
+
+## Pinker (2003)
+
+Now you know a bit about natural selection, I want you to read [Pinker (2003)](https://stevenpinker.com/files/pinker/files/language_evolution.pdf).  [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker) is quite widely known for his pop science writing on language and other topics, but also has thoughts on language evolution. This 2003 paper is an old but fairly easy-reading and non-technical summary of (an older instantiation of) Pinker's take on language, what it's for, and how it evolved.
+
+Pinker, S. (2003). Language as an adaptation to the cognitive niche. In M. Christiansen & S. Kirby (Eds.), *Language Evolution* (pp. 16-37). Oxford: Oxford University Press. [Link](https://stevenpinker.com/files/pinker/files/language_evolution.pdf)
+
+NB. the link goes to a copy of the chapter that Pinker has put online - if you want to chase up a reference you can also access the whole book, including the references, online [via Discover Ed](https://discovered.ed.ac.uk/permalink/44UOE_INST/1viuo5v/cdi_proquest_miscellaneous_37697167).
+
+NB. Pinker uses the term "retarded" a few times in this paper - while this was at one point a scientific term it is now widely considered to be offensive and its use has been discontinued in the last 10-15 years (see e.g. [here](https://en.wikipedia.org/wiki/Retard_(pejorative)), which also includes mention of other similar terms which have fallen out of scientific use due to their perjorative connotations), being replaced with less loaded terms like "intellectual disability". You should therefore not use this term in your discussion or essays.
+
 
 ## References
 
