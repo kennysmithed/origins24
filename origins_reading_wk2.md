@@ -7,11 +7,11 @@ description: Introduction to evolutionary theory
 
 ## Overview
 
-There is quite a lot of reading this week, in order to get you up to speed on the basics of evolutionary theory, and how these ideas might apply to the evolution of language. I will provide a very quick summary of some key points in the lecture, and there will be lots of opportunities for questions. 
+There is quite a lot of reading this week, in order to get you up to speed on the basics of evolutionary theory, and how these ideas might apply to the evolution of language: you will read a brief introduction to evolution by natural selection provided below, plus an older but accessible paper by Pinker. I will provide a very quick summary of some key points in the lecture, and there will be lots of opportunities for questions. 
 
 ## About the reading
 
-In addition to reading the text below, which is a brief introduction to evolution by natural selection, I want you to [Pinker (2003)](https://stevenpinker.com/files/pinker/files/language_evolution.pdf).  [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker) is quite widely known for his pop science writing on language and other topics, but also has opinions on language evolution. This is an old but fairly easy-reading and non-technical summary of (an older instantiation of) Pinker's take on language, what it's for, and how it evolved.
+In addition to reading the text below, which is a brief introduction to evolution by natural selection, I want you to read [Pinker (2003)](https://stevenpinker.com/files/pinker/files/language_evolution.pdf) - I would suggest reading the intro to evolutionary theiry first, then the Pinker paper.  [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker) is quite widely known for his pop science writing on language and other topics, but also has thoughts on language evolution. This 2003 paper is an old but fairly easy-reading and non-technical summary of (an older instantiation of) Pinker's take on language, what it's for, and how it evolved.
 
 Pinker, S. (2003). Language as an adaptation to the cognitive niche. In M. Christiansen & S. Kirby (Eds.), *Language Evolution* (pp. 16-37). Oxford: Oxford University Press. [Link](https://stevenpinker.com/files/pinker/files/language_evolution.pdf)
 
