@@ -51,13 +51,13 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 
 ### Week 1 (commencing 16th September): Introduction
 
-- No pre-lecture reading this week, but optionally you can read [this short paper](papers/smith_18_cognitive.pdf) that summarises (in very condensed format) the main thread of the course. There is lots to read in subsequent weeks, so if you are looking for something to do then make a start on that!
+- No pre-lecture reading this week, but read [this short paper](papers/smith_18_cognitive.pdf) that summarises (in very condensed format) the main thread of the course. There is lots to read in subsequent weeks, so if you are looking for something to do then make a start on that!
 - Lecture slides
 - No tutorial this week
 
 ### Week 2 (23rd September): Natural selection, adaptation, and the evolution of language
 
-- Lecture pre-reading
+- [Lecture pre-reading](origins_reading_wk2.md)
 - Lecture slides
 - Tutorial reading and instructions
 
@@ -77,14 +77,14 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 - Tutorial reading and instructions
 
 ### Week 6 (21st October): Evolution of social cognition
-- Lecture pre-reading
+- [Lecture pre-reading](origins_reading_wk6.md)
 - Lecture slides
 - Tutorial reading and instructions
 
 ### Week 7 (28th October): Cultural evolution of language
-- Lecture pre-reading
+- [Lecture pre-reading](origins_reading_wk7.md)
 - Lecture slides
-- Tutorial reading and instructions
+- [Tutorial reading and instructions](origins_tutorial_wk7.md)
 
 ### Week 8 (4th November): Sign language as a window into language origins
 - Lecture pre-reading
