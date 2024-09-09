@@ -31,7 +31,7 @@ Each week's lecture reading will be accompanied by a reading quiz, which allows 
 
 ### Reading Quizzes
 
-In order to encourage you to complete the reading and to allow you (and me) to check whether you actually understood it, you need to complete weekly reading quizzes prior to the Monday lectures (starting in week 2). Quizzes will open as soon as I have written them (I'll get them all up as fast as I can) and close at 1pm on the day of the lecture they go with (e.g. the quiz for the week 2 lecture will close at 1pm on Monday of week 2, 1 hour before the lecture). You can access the reading quizzes on Learn, through the link "Pre-lecture quizzes".
+In order to encourage you to complete the reading and to allow you (and me) to check whether you actually understood it, you need to complete weekly reading quizzes prior to the Monday lectures (starting in week 2). Quizzes will open as soon as I have written them (I'll get them all up as fast as I can) and close at noon on the day of the lecture they go with (e.g. the quiz for the week 2 lecture will close at noon on Monday of week 2, 1 hour before the lecture). You can access the reading quizzes on Learn, through the link "Pre-lecture quizzes".
 
 **The quiz is not assessed and does not contribute to your mark for the course**. It's just intended to help you learn stuff, which is what the course is for. People who answer the questions will also get to see my notes on how I would answer those questions, and any additional thoughts I have; where appropriate I will also provide a little comment on your answer.
 
@@ -62,7 +62,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 - [Tutorial reading and instructions](origins_tutorial_wk2.md)
 
 ### Week 3 (30th September): Intention and structure in animal communication
-- Lecture pre-reading
+- [Lecture pre-reading](origins_reading_wk3.md)
 - Lecture slides
 - Tutorial reading and instructions
 
