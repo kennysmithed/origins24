@@ -11,7 +11,7 @@ Note that this course has evolved over the years - the course in something like 
 
 The course organiser and lecturer is [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) (that's me). The best way to get in touch with me is in one of the lectures, see below, or by email to [kenny.smith@ed.ac.uk](mailto:kenny.smith@ed.ac.uk).
 
-Tutorials will be run by three tutors: names **TBC**. 
+Tutorials will be run with help from three tutors: [Maisy Hallam](https://maisyhallam.github.io), [Lauren Fletcher](https://www.inf.ed.ac.uk/people/students/Lauren_Fletcher.html), and [Claire Graf](https://uk.linkedin.com/in/claire-graf-6b4767244). 
 
 ## Class times
 
