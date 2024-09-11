@@ -67,7 +67,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 - Tutorial reading and instructions
 
 ### Week 4 (7th October): Social learning and cumulative cultural evolution
-- Lecture pre-reading
+- [Lecture pre-reading](origins_reading_wk4.md)
 - Lecture slides
 - Tutorial reading and instructions
 

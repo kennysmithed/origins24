@@ -7,7 +7,7 @@ description: Introduction to evolutionary theory
 
 ## Overview
 
-There is quite a lot of reading this week, in order to get you up to speed on the basics of evolutionary theory, and how these ideas might apply to the evolution of language: you will read a brief introduction to evolution by natural selection provided below, plus an older but accessible paper by Pinker. I will provide a very quick summary of some key points in the lecture, and there will be lots of opportunities for questions. 
+There is quite a lot of reading this week, in order to get you up to speed on the basics of evolutionary theory, and how these ideas might apply to the evolution of language: you will read a brief introduction to evolution by natural selection provided below, plus [an older but accessible paper by Pinker](https://stevenpinker.com/files/pinker/files/language_evolution.pdf). I will provide a very quick summary of some key points in the lecture, and there will be lots of opportunities for questions. 
 
 
 ## A very brief intro to adaptation and natural selection
