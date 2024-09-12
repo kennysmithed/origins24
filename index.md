@@ -72,7 +72,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 - Tutorial reading and instructions
 
 ### Week 5 (14th October): Evolution of speech, vocal learning, grammar learning
-- Lecture pre-reading
+- [Lecture pre-reading](origins_reading_wk5.md)
 - Lecture slides
 - Tutorial reading and instructions
 

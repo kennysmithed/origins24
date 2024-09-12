@@ -12,7 +12,7 @@ This week's reading, **[Fitch (2019)](http://dx.doi.org/10.1098/rstb.2019.0046)*
 
 ## Animal Cognition
 
-Fitch provides a brief summary of concepts in non-human animals. The general conclusion is that nonhuman animals demonstrate an impressive array of complex cognitive abilities. This has two important implications. First, much of this sophisticated cognition is possible in the absence of language, and presumably preexisted the emergence of the ability to externalise these rich mental lives in our species. Second, many capabilities which were previously thought to be uniquely human have been found in nonhuman animals. Fitch focuses on concepts, but the same is true of things sophisticated behaviours like tool use. The clip below shows a chimpanzee using stone tools to crack open nuts, demonstrating fine motor control and planning:
+Fitch provides a brief summary of concepts in non-human animals. The general conclusion is that nonhuman animals demonstrate an impressive array of complex cognitive abilities, which aren;t reflected in their communication systems. This has two important implications. First, much of this sophisticated cognition is possible in the absence of language, and presumably preexisted the emergence of the ability to externalise these rich mental lives in humans. Second, many capabilities which were previously thought to be uniquely human have been found in nonhuman animals; Fitch focuses on concepts, but the same is true of sophisticated behaviours like tool use. The clip below shows a chimpanzee using stone tools to crack open nuts, demonstrating fine motor control and planning:
 
 <!-- [embed]https://www.youtube.com/watch?v=2N34Fcn3J00[/embed] -->
 <iframe width="560" height="315"
@@ -32,7 +32,7 @@ allowfullscreen></iframe>
 
 ## Animal Communication
 
-In contrast to the rich internal cognitive world of animals, Fitch argues that their communication systems are relatively impoverished when compared to language. Still, even though we know of no other animal with a communication system providing the expressive power offered by all human languages, the communication systems we observe show a great degree of variety in their richness and complexity. For instance, the bengalese finch is capable of producing song with relatively elaborate structures, but which is restricted in its function and lacks propositional content:
+In contrast to the rich internal cognitive world of animals, Fitch argues that their communication systems are relatively impoverished when compared with the apparent richness of their mental lives, and very clearly when compared to human language. Animal communication systems do however show a great degree of variety in their richness and complexity. For instance, the bengalese finch is capable of producing song with relatively elaborate structures, but which is restricted in its function and lacks propositional content:
 
 <!-- [embed]https://www.youtube.com/watch?v=rozh349EZWA[/embed] -->
 <iframe width="560" height="315"
@@ -79,7 +79,7 @@ First, human language is highly **expressive:** it allows us to convey practical
 
 ## Further reading
 
-If you want to read about these ideas at more length, you could check out Chapter 4 of Fitch (2010) (pages 143-202), which surveys the various cognitive abilities and communication systems on offer in the animal world ([available online via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466)).
+If you want to read about these ideas at more length, you could check out Chapter 4 of Fitch (2010), which surveys the various cognitive abilities and communication systems on offer in the animal world ([available online via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466)).
 
 ## References
 
