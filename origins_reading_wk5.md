@@ -1,16 +1,16 @@
 ---
 title: Week 5 pre-lecture reading
-description: The evolution of speech
+description: Vocal learning and grammar learning
 ---
 
-*As usual, read this blog, do the reading, and then take the quiz on Learn to test your understanding.*
+*As usual, read this blog, read the paper, and then take the quiz on Learn to test your understanding.*
 
-This week, after reading this intro blog, you will read [Tyack (2019)](http://dx.doi.org/10.1098/rstb.2018.0406). The theme for this week is the learning of speech and grammar. The lecture will focus on the comparative psychology of grammar learning (which might give us some insights into the evolution of the human capacities in that domain): the reading provides relevant background information on vocal learning (as invovled in learning speech in humans). In this blog post I'll deal with some preliminaries on the evolution of the vocal tract, and some background on vocal learning that sets the scene for the Tyack reading.
+This week, after reading this intro blog, you will read [Tyack (2019)](http://dx.doi.org/10.1098/rstb.2018.0406). The theme for this week is the learning of speech and grammar. The lecture will focus on the comparative psychology of grammar learning (which might give us some insights into the evolution of the human capacities in that domain): the reading provides relevant background information on vocal learning (as involved in learning speech in humans). In this blog post I'll deal with some preliminaries on the evolution of the vocal tract, and some background on vocal learning that sets the scene for the Tyack reading.
 
 
 ## The evolution of the vocal tract
 
-One relatively early idea in the language evolution literature was that the human vocal tract may have evolved to allow us to produce complex comprehensible speech, speech being the default (bit not the only) modality for language. An early focus in this literature was on the position of the larynx in the human vocal tract, which was (for a time) believed to be unusual in humans in occupying a low resting position, giving us a two-chamber vocal tract that (possibly) increases the range of contrastive vowel sounds that can be produced. 
+One relatively early idea in the language evolution literature was that the human vocal tract may have evolved to allow us to produce complex comprehensible speech, speech being the default (but not the only) modality for language. An early focus in this literature was on the position of the larynx in the human vocal tract, which was (for a time) believed to be unusual in humans in occupying a low resting position, giving us a two-chamber vocal tract that (possibly) increases the range of contrastive vowel sounds that can be produced. 
 
 Most animals, and very young humans, have a larynx that is positioned high in the throat, which allows them to engage the larynx directly with the velum, forming a nice tight seal which prevents food/liquid being inhaled. In many other animals, and young human infants, the larynx engages with the velum and nasal cavity, making it possible to breathe through the nose (red arrows) while swallowing (blue arrows). 
 
@@ -20,6 +20,9 @@ Most animals, and very young humans, have a larynx that is positioned high in th
 The resting position of the adult human larynx is lower in the throat, and too far down to allow the larynx to engage with the velum in this way. 
 
 The larynx moves to its lower position early in development (around age 3 months), with a second descent to an even lower position occurring during puberty in males only (which turns out to be informative about possible evolutionary functions for the low position of the larynx in humans, see below). This low larynx position increases (at least hypothetically) the risk of choking -- every time you swallow, the stuff you are swallowing has to pass over the top of your windpipe and into the oesophagus, the epiglottis pulls down over the opening to the windpipe to cover the opening, as shown quite nicely in [this animation](https://www.youtube.com/watch?v=UNwXoW7z24E).
+
+<!-- [embed]https://www.youtube.com/embed/UNwXoW7z24E?si=lr_-0tb3Isui2eSx[/embed] -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UNwXoW7z24E?si=lr_-0tb3Isui2eSx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 It has long been thought that the risks of the descended larynx -- the danger of choking on food or liquid -- must be outweighed by some advantage, perhaps related to language?
@@ -99,7 +102,7 @@ In addition to these two circuits involved in vocalisation in many mammals, huma
 
 ![Human brain wiring](images/human_neural.png) 
 
-The rest of the Tyack paper considers cases which don't fit into this classic dichotomy between species which are incapable or capable of vocal production learning, including cases where there seems to be some capacity for what he calls "limited vocal learning" involving fine-tuning of pattern generators in the brainstem, rather than involving networks in the cortex (i.e. not involving the 3rd neural pathway discussed above); he also talks about evidence for learned sequencing of innate calls, which would fit under usage learning in Janik & Slater's taxonomy, being distinct from what he calls "complex vocal learning" which is copying new sounds, i.e. production learning. It's interesting to me that learning call sequences is seen, from the comparative perspective, as a less sophisticated behaviour than learning sounds! He also runs through evidence for complex vocal learning of this sort in various mammals, and you can see above for audio/video on some of the examples he mentions. 
+The rest of the Tyack paper considers cases which don't fit into this classic dichotomy between species which are incapable or capable of vocal production learning, including cases where there seems to be some capacity for what he calls "limited vocal learning" involving fine-tuning of pattern generators in the brainstem, rather than involving networks in the cortex (i.e. not involving the 3rd neural pathway discussed above); he also talks about evidence for learned sequencing of innate calls, which would fit under usage learning in Janik & Slater's taxonomy, being distinct from what he calls "complex vocal learning" which is copying new sounds, i.e. production learning. It's interesting to me that learning call sequences can be seen, from the comparative perspective, as a less sophisticated behaviour than learning novel sounds! He also runs through evidence for complex vocal learning of this sort in various mammals, and you can see above for audio/video on some of the examples he mentions. 
 
 
 ## References
