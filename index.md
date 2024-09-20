@@ -11,13 +11,22 @@ Note that this course has evolved over the years - the course in something like 
 
 The course organiser and lecturer is [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) (that's me). The best way to get in touch with me is in one of the lectures, see below, or by email to [kenny.smith@ed.ac.uk](mailto:kenny.smith@ed.ac.uk).
 
-Tutorials will be run with help from three tutors: [Maisy Hallam](https://maisyhallam.github.io), [Lauren Fletcher](https://www.inf.ed.ac.uk/people/students/Lauren_Fletcher.html), and [Claire Graf](https://uk.linkedin.com/in/claire-graf-6b4767244). 
+Tutorials will be run with help from three tutors: [Maisy Hallam](https://maisyhallam.github.io), [Lauren Fletcher](https://www.inf.ed.ac.uk/people/students/Lauren_Fletcher.html), and [Claire Graf](https://www.ed.ac.uk/profile/claire-graf). 
 
 ## Class times
 
 Lectures take place on Mondays, 2.10pm-4pm, in the Usha Kasera Lecture Theatre, [Old College](https://www.ed.ac.uk/maps/maps?building=0001). 
 
 You will be allocated to a tutorial group which will meet for 1 hour later in the week (Wednesday, Thursday or Friday). **There is no tutorial in week 1** - tutorials start in week 2 (week commencing 23rd September). 
+
+The tutors for the various groups are:
+Wednesday 10-11, 7.01 40 George Square: [Lauren Fletcher](https://www.inf.ed.ac.uk/people/students/Lauren_Fletcher.html)
+Wednesday 2-3 (MSc), 1.04 7-8 Chambers Street: [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/)
+Wednesday 2-3 (undergrad), 7.01 40 George Square: [Claire Graf](https://www.ed.ac.uk/profile/claire-graf)
+Thursday 2-3 (MSc), 7.01 40 George Square: [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/)
+Friday 10-11, 7.01 40 George Square:: [Maisy Hallam](https://maisyhallam.github.io)
+Friday 12-1, 7.01 40 George Square:[Lauren Fletcher](https://www.inf.ed.ac.uk/people/students/Lauren_Fletcher.html)
+
 
 Lectures and tutorials are both essential to doing well on the course - the lectures provide a broad overview of major issues in the evolution of language, and the tutorials give you the opportunity to discuss more specific topics in detail with your classmates, guided by your tutor. Attendance will be taken at tutorials.
 
