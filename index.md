@@ -73,7 +73,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 ### Week 2 (23rd September): Natural selection, adaptation, and the evolution of language
 
 - [Lecture pre-reading](origins_reading_wk2.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk2.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk2.md)
 
 ### Week 3 (30th September): Intention and structure in animal communication
