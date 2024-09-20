@@ -20,11 +20,17 @@ Lectures take place on Mondays, 2.10pm-4pm, in the Usha Kasera Lecture Theatre, 
 You will be allocated to a tutorial group which will meet for 1 hour later in the week (Wednesday, Thursday or Friday). **There is no tutorial in week 1** - tutorials start in week 2 (week commencing 23rd September). 
 
 The tutors for the various groups are:
+
 Wednesday 10-11, 7.01 40 George Square: [Lauren Fletcher](https://www.inf.ed.ac.uk/people/students/Lauren_Fletcher.html)
+
 Wednesday 2-3 (MSc), 1.04 7-8 Chambers Street: [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/)
+
 Wednesday 2-3 (undergrad), 7.01 40 George Square: [Claire Graf](https://www.ed.ac.uk/profile/claire-graf)
+
 Thursday 2-3 (MSc), 7.01 40 George Square: [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/)
+
 Friday 10-11, 7.01 40 George Square:: [Maisy Hallam](https://maisyhallam.github.io)
+
 Friday 12-1, 7.01 40 George Square:[Lauren Fletcher](https://www.inf.ed.ac.uk/people/students/Lauren_Fletcher.html)
 
 
