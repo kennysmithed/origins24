@@ -29,9 +29,9 @@ Wednesday 2-3 (undergrad), 7.01 40 George Square: [Claire Graf](https://www.ed.a
 
 Thursday 2-3 (MSc), 7.01 40 George Square: [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/)
 
-Friday 10-11, 7.01 40 George Square:: [Maisy Hallam](https://maisyhallam.github.io)
+Friday 10-11, 7.01 40 George Square: [Maisy Hallam](https://maisyhallam.github.io)
 
-Friday 12-1, 7.01 40 George Square:[Lauren Fletcher](https://www.inf.ed.ac.uk/people/students/Lauren_Fletcher.html)
+Friday 12-1, 7.01 40 George Square: [Lauren Fletcher](https://www.inf.ed.ac.uk/people/students/Lauren_Fletcher.html)
 
 
 Lectures and tutorials are both essential to doing well on the course - the lectures provide a broad overview of major issues in the evolution of language, and the tutorials give you the opportunity to discuss more specific topics in detail with your classmates, guided by your tutor. Attendance will be taken at tutorials.
