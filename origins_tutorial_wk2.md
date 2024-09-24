@@ -7,7 +7,7 @@ The first tutorial will be hands-on, to give you a chance to check your understa
 
 # Phylogenetic trees
 
-Using the [Evolution Lab game](https://www.pbs.org/wgbh/nova/labs/lab/evolution/) (click "play game"), complete at least the three training trees (Red, green and gecko; Familiar faces; Tree of life: Vegetarian edition). The aim here is to understand why closely related species might be expected to share many traits, and how patterns of shared and differing traits between organisms can be informative about evolutionary history of traits and species (e.g. the patterns of relatedness between species, and when certain traits are likely to have evolved). NB. this app works in Chrome or Edge, your success in other browsers may vary, if necessary try a different browser!
+Using the [Evolution Lab game](https://www.pbs.org/wgbh/nova/labs/lab/evolution/) (click "play game"), complete at least the three training trees (Red, green and gecko; Familiar faces; Tree of life: Vegetarian edition). The aim here is to understand why closely related species might be expected to share many traits, and how patterns of shared and differing traits between organisms can be informative about evolutionary history of traits and species (e.g. the patterns of relatedness between species, and when certain traits are likely to have evolved). NB. this app works in Chrome or Edge, your success in other browsers may vary, if necessary try a different browser! You can access the game with a guest account if you don't want to log in with google.
 
 # Evolution by natural selection
 
