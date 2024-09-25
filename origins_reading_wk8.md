@@ -20,7 +20,7 @@ To introduce you to some of the research which has been conducted on young sign 
 
 Goldin-Meadow, S., Brentari, D., Coppola, M., Horton, L., & Senghas, A. (2015). Watching language grow in the manual modality: Nominals, predicates, and handshapes. *Cognition, 136*, 381-395. [https://doi.org/10.1016/j.cognition.2014.11.029](https://doi.org/10.1016/j.cognition.2014.11.029)
 
-Sandler, W. & Lillo-Martin, D. (2017). Sign Languages. In M. Aronoff and J. Rees-Miller (Eds.) <i>The Handbook of Linguistics</i> (pp. 371-396). Oxford: Blackwell.[https://doi.org/10.1002/9781119072256.ch18](https://doi.org/10.1002/9781119072256.ch18)
+Sandler, W. & Lillo-Martin, D. (2017). Sign Languages. In M. Aronoff and J. Rees-Miller (Eds.) <i>The Handbook of Linguistics</i> (pp. 371-396). Oxford: Blackwell. [https://doi.org/10.1002/9781119072256.ch18](https://doi.org/10.1002/9781119072256.ch18)
 
 
 ## Re-use
