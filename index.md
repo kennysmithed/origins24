@@ -39,7 +39,7 @@ Lectures and tutorials are both essential to doing well on the course - the lect
 ## Assessment
 
 The course is assessed via 2 essays, due on 24th October and 12th December. 
-- Full details will be provided in [the assignment brief](assessment/OriginsAssignmentBrief24.pdf) and [FAQ](assessment/origins_assignment_faq.md)
+- Full details are provided in [the assignment brief](assessment/OriginsAssignmentBrief24.pdf) and [FAQ](assessment/origins_assignment_faq.md)
 - Essay 1 must be accompanied by [cover sheet 1](assessment/cover_sheet_1.docx)
 - Essay 2 must be accompanied by [cover sheet 2](assessment/cover_sheet_2.docx)
 - If you use generative AI (see policy in assignment brief) you need to complete and attach [the AI declaration](assessment/AI_declaration.docx) to your submission.
