@@ -38,7 +38,11 @@ Lectures and tutorials are both essential to doing well on the course - the lect
 
 ## Assessment
 
-The course is assessed via 2 essays, due on 24th October and 12th December. Full details will be provided in [the assignment brief](assessment/OriginsAssignmentBrief24.pdf) (**to appear**) and [FAQ](assessment/origins_assignment_faq.md) (**to appear**); if you use generative AI (see policy in assignment brief) you need to complete and attach [the AI declaration](assessment/AI_declaration.docx) to your submission.
+The course is assessed via 2 essays, due on 24th October and 12th December. 
+- Full details will be provided in [the assignment brief](assessment/OriginsAssignmentBrief24.pdf) and [FAQ](assessment/origins_assignment_faq.md)
+- Essay 1 must be accompanied by [cover sheet 1](assessment/cover_sheet_1.docx)
+- Essay 2 must be accompanied by [cover sheet 2](assessment/cover_sheet_2.docx)
+- If you use generative AI (see policy in assignment brief) you need to complete and attach [the AI declaration](assessment/AI_declaration.docx) to your submission.
 
 ## Quizzes
 
@@ -89,7 +93,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 ### Week 5 (14th October): Evolution of speech, vocal learning, grammar learning
 - [Lecture pre-reading](origins_reading_wk5.md)
 - Lecture slides
-- [Tutorial reading and instructions](origins_tutorial_wk5.md) *to be completed*
+- [Tutorial reading and instructions](origins_tutorial_wk5.md) *discussion questions to be added*
 
 ### Week 6 (21st October): Evolution of social cognition
 - [Lecture pre-reading](origins_reading_wk6.md)
