@@ -82,7 +82,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 
 ### Week 3 (30th September): Intention and structure in animal communication
 - [Lecture pre-reading](origins_reading_wk3.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk3.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk3.md)
 
 ### Week 4 (7th October): Social learning and cumulative cultural evolution
