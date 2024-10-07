@@ -85,6 +85,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 - [Lecture pre-reading](origins_reading_wk3.md)
 - [Lecture slides](slides/origins_lecture_wk3.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk3.md)
+- [Tutor notes](tutor_notes/origins_tutorial_notes_wk3.pdf)
 
 ### Week 4 (7th October): Social learning and cumulative cultural evolution
 - [Lecture pre-reading](origins_reading_wk4.md)
