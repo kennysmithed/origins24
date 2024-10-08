@@ -7,7 +7,20 @@ This week's reading was about vocal learning, and in the lecture I focussed on g
 
 For this week's tutorial, read [Fehér et al. (2009)](https://doi.org/10.1038/nature07994) and [Fehér et al. (2017)](https://doi.org/10.1098/rstb.2016.0053) - they are both very short!
 
-**Tutorial instructions to follow**
+To get a feel for zebra finch song, have a listen to these 6 songs. They are in two groups: songs 1-3 and songs A-C. One of these two groups are songs of isolate birds, and the other group is songs from birds from later generations (a generation 2 bird, a generation 3 bird, and a 5th generation bird from their colony). This might be very challenging, but can you guess based on the description in the paper which group of songs is the isolate and which group is the more wild-type-like song? How distinctive do the two song types seem to you? Are you surprised by similarities or differences across or within these song groups?
+
+- [Song 1](feher_materials/song1.mp3)
+- [Song 2](feher_materials/song2.mp3)
+- [Song 3](feher_materials/song3.mp3)
+- [Song A](feher_materials/songA.mp3)
+- [Song B](feher_materials/songB.mp3)
+- [Song C](feher_materials/songC.mp3)
+
+Questions:
+- What is the paper about? What did they do? What did they find?
+- What are the crucial differences between the "multigenerational progression" and "isolated colony" experiments in the 2009 paper, and the self-tutoring experiment in the 2017 paper?
+- If you can imagine running similar experiments with humans, what do you think would happen? How different would the methods have to be to show interesting results? This question is intended to be about the factors you think are crucial in understanding human language transmission, rather than the ethical issues!
+- What aspect of their findings strikes you as most interesting or surprising from the perspective of someone interested in human language? Or if you think these results aren't relevant to understanding human language, why not?
 
 ## References
 
