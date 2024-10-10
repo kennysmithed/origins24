@@ -19,6 +19,10 @@ Questions:
 - If you can imagine running similar experiments with humans, what do you think would happen? How different would the methods have to be to show interesting results? This question is intended to be about the factors you think are crucial in understanding human language transmission, rather than the ethical issues!
 - What aspect of their findings strikes you as most interesting or surprising from the perspective of someone interested in human language? Or if you think these results aren't relevant to understanding human language, why not?
 
+## Acknowledgments
+
+Dr. Olga Fehér very kindly shared the zebra finch songs included above.
+
 ## References
 
 Fehér, O., Wang, H., Saar, S. et al. De novo establishment of wild-type song culture in the zebra finch. *Nature, 459*, 564–568. [https://doi.org/10.1038/nature07994](https://doi.org/10.1038/nature07994)

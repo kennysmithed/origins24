@@ -95,7 +95,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 ### Week 5 (14th October): Evolution of speech, vocal learning, grammar learning
 - [Lecture pre-reading](origins_reading_wk5.md)
 - Lecture slides
-- [Tutorial reading and instructions](origins_tutorial_wk5.md) *discussion questions to be added*
+- [Tutorial reading and instructions](origins_tutorial_wk5.md) 
 
 ### Week 6 (21st October): Evolution of social cognition
 - [Lecture pre-reading](origins_reading_wk6.md)
