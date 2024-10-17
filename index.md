@@ -101,7 +101,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 ### Week 6 (21st October): Evolution of social cognition
 - [Lecture pre-reading](origins_reading_wk6.md)
 - Lecture slides
-- [Tutorial reading and instructions](origins_tutorial_wk6.md) *discussion questions to be added*
+- [Tutorial reading and instructions](origins_tutorial_wk6.md)
 
 ### Week 7 (28th October): Cultural evolution of language
 - [Lecture pre-reading](origins_reading_wk7.md)
