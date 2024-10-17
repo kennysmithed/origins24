@@ -21,6 +21,11 @@ Questions for discussion:
 
 ## References
 
+Fitch, W.T. and Hauser, M. 2004: Computational constraints on syntactic processing in a nonhuman primate. *Science, 303,* 377–80. [https://doi.org/10.1126/science.1089401](https://doi.org/10.1126/science.1089401)
+
+Savage-Rumbaugh, E.S., Murphy, J., Sevcik, R., Brakke, K., Williams, S., Rumbaugh, D. and Bates, E. 1993. Language comprehension in ape and child. *Monographs of the
+Society for Research in Child Development, 58,* 1–252. [https://www.jstor.org/stable/1166068](https://www.jstor.org/stable/1166068)
+
 Truswell, R. (2017), Dendrophobia in Bonobo Comprehension of Spoken English. *Mind and Language, 32*, 395-415. [https://doi.org/10.1111/mila.12150](https://doi.org/10.1111/mila.12150)
 
 ## Re-use
