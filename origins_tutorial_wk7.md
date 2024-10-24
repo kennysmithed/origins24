@@ -19,11 +19,14 @@ Points to consider in your reading and discussion of Everett et al.:
 - What is the paper about? What hypothesis were they testing? What did they do? What did they find?
 - Why are they concerned about trying to show the effect of aridity on tone while controlling for relatedness between languages? Why are isolate languages useful in this regard?
 - Why do they make a big deal of the experimental evidence on the effect of dry air on the vocal folds? What would be the concern if they were "only" looking at correlations between environment and linguistic features? 
-- How do you think aridity could affect whether or not a language tends to have tone? Try to spell out the process by which this could happen.
+- How do you think aridity could affect whether or not a language tends to have tone? Try to spell out the process by which this could happen, focussing on how people learn and use language.
 - Do you find their conclusions plausible? If so, why, and are there other places where similar methods could be applied? If not, why not? 
 
 Points to consider in your reading and discussion of Majid et al.:
-
+- What is the paper about? What hypothesis were they testing? What did they do? What did they find?
+- What factors influenced the sample of languages they selected? Why were they using languages from different language families and different modalities? 
+- What kinds of demographic and cultural factors did they explore, and why? How do you think cultural factors could have an effect on codability? Try to spell out the process by which this could happen, focussing on how people learn and use language.
+- Do you find their conclusions plausible? If so, why, and are there other places where similar methods could be applied? If not, why not? 
 
 ## Re-use
 
