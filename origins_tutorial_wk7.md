@@ -11,9 +11,9 @@ In a paper that received quite a lot of attention and generated a bit of controv
 
 [Majid et al. (2018)](https://doi.org/10.1073/pnas.1720419115) show that languages differ in the linguist resources they devote to communicating about the different senses - while e.g. English has a far larger conventionalised vocabulary for talking about colour and shape than touch, taste or smell, other languages show a different ranking of linguistic codability of the senses, which the authors attribute to differences in cultural practices in the communities using those languages.
 
-Everett, C., Blasi, D. E., & Roberts, S. G. (2015). Climate, vocal folds, and tonal languages: Connecting the physiological and geographic dots. <i>Proceedings of the National Academy of Sciences, USA, 112,</i> 1322-1327.[https://doi.org/10.1073/pnas.1417413112](https://doi.org/10.1073/pnas.1417413112)
+Everett, C., Blasi, D. E., & Roberts, S. G. (2015). Climate, vocal folds, and tonal languages: Connecting the physiological and geographic dots. <i>Proceedings of the National Academy of Sciences, USA, 112,</i> 1322-1327. [https://doi.org/10.1073/pnas.1417413112](https://doi.org/10.1073/pnas.1417413112)
 
-Majid, A., et al. (2018). Differential coding of perception in the world's languages. <i>Proceedings of the National Academy of Sciences, USA, 115,</i> 11369-11376.[https://doi.org/10.1073/pnas.1720419115](https://doi.org/10.1073/pnas.1720419115)
+Majid, A., et al. (2018). Differential coding of perception in the world's languages. <i>Proceedings of the National Academy of Sciences, USA, 115,</i> 11369-11376. [https://doi.org/10.1073/pnas.1720419115](https://doi.org/10.1073/pnas.1720419115)
 
 Points to consider in your reading and discussion of Everett et al.:
 - What is the paper about? What hypothesis were they testing? What did they do? What did they find?
