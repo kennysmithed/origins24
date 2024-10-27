@@ -106,7 +106,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 
 ### Week 7 (28th October): Cultural evolution of language
 - [Lecture pre-reading](origins_reading_wk7.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk7.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk7.md)
 
 ### Week 8 (4th November): Sign language as a window into language origins 
