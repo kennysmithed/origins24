@@ -103,6 +103,7 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 - [Lecture pre-reading](origins_reading_wk6.md)
 - [Lecture slides](slides/origins_lecture_wk6.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk6.md)
+- [Tutor notes](tutor_notes/origins_tutorial_notes_wk6.pdf)
 
 ### Week 7 (28th October): Cultural evolution of language
 - [Lecture pre-reading](origins_reading_wk7.md)
