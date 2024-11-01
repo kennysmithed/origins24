@@ -109,11 +109,12 @@ For the tutorials you will be asked to read one or more journal articles/book ch
 - [Lecture pre-reading](origins_reading_wk7.md)
 - [Lecture slides](slides/origins_lecture_wk7.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk7.md)
+- [Tutor notes](tutor_notes/origins_tutorial_notes_wk7.pdf)
 
 ### Week 8 (4th November): Sign language as a window into language origins 
 This week's lecture will be a guest lecture by [Dr. Annie Holtz](https://annieholtz.github.io).
 - [Lecture pre-reading](origins_reading_wk8.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk8.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk8.md)
 
 ### Week 9 (11th November): Gene-culture co-evolution
