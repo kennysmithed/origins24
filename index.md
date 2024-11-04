@@ -119,7 +119,7 @@ This week's lecture will be a guest lecture by [Dr. Annie Holtz](https://annieho
 
 ### Week 9 (11th November): Gene-culture co-evolution
 - [Lecture pre-reading](origins_reading_wk9.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk9.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk9.md)
 
 ## Re-use
