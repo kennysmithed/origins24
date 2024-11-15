@@ -10,7 +10,7 @@ For the final tutorial we will read and discuss [Thomas & Kirby (2018)](https://
 - What do they think the key "precursor traits" for cultural evolution are? Do you agree with their list?
 - What lessons do they take from Bengalese finches and domesticated dogs specifically? What do Siberian foxes add to the argument? What changes if [the interpretation of the fox domestication experiment changes](https://www.sciencenews.org/article/russian-foxes-tameness-domestication)? 
 - What is the relationship between self-domestication and (cultural) niche construction - are they the same thing, or are there important differences? What do they imply about ongoing evolution in humans for language-related capacities?
-- Do you buy the Thomas & Kirby argument regarding self-domestication? What are the convincing points? What are the weaknesses? Haver you seen any competing theories to explain the same set of observations?
+- Do you buy the Thomas & Kirby argument regarding self-domestication? What are the convincing points? What are the weaknesses? Have you seen any competing theories to explain the same set of observations?
 
 ## References
 [Thomas, J., & Kirby, S. (2018). Self domestication and the evolution of language. <i>Biology and Philosophy, 33,</i> 9.](https://doi.org/10.1007/s10539-018-9612-8)
